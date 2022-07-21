@@ -5,7 +5,7 @@ So nice of you paying a visit!
 - 🔭 I’m currently pursuing Bachelor of Technology in Information Technology at Jaypee University of Information Techonology
 - 🌱 I’m currently learning Full-Stack web-development.
 - 👯 I’m looking to collaborate on Unity Game Projects and C++, JavaScript projects and python Projects.
-- 🤔 I’m looking for help with React Native.
+- 🤔 I’m looking for help with React JS or NEXT JS.
 - 💬 Ask me about UnityEngine, Game Development, Assassin's Creed, Call Of Duty Mobile, Deathnote, Attack On Titan.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Four corner is the only spot in the US where you can stand in four states at once: Utah, Colorado, Arizona and New Mexico.
