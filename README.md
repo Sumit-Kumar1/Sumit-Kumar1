@@ -1,44 +1,38 @@
 ### Hi there 👋
 
-So nice of you paying a visit!
+So nice of you paying a visit !
 
-- 🔭 I’m currently pursuing Bachelor of Technology in Information Technology at Jaypee University of Information Techonology
-- 🌱 I’m currently learning Full-Stack web-development.
-- 👯 I’m looking to collaborate on Unity Game Projects and C++, JavaScript projects and python Projects.
-- 🤔 I’m looking for help with React JS or NEXT JS.
-- 💬 Ask me about UnityEngine, Game Development, Assassin's Creed, Call Of Duty Mobile, Deathnote, Attack On Titan.
+- 🔭 I'm currently a full-time `GO` backend developer at ZopSmart Technologies.
+- 👯 I’m happy to collaborate on go based projects and currently interested in learning `go-htmx` stack (really fascinates me).
+- 💬 Ask me about Golang, ML, some about Game Development, enjoying playing PC games and anime.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Four corner is the only spot in the US where you can stand in four states at once: Utah, Colorado, Arizona and New Mexico.
   
-<h3 align="left">Connect With Me:</h3>
+<h3 align="center">Connect With Me:</h3>
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://kumarsumitjat298@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit1kumar) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumit.1kumar/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://kumarsumitjat298@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit1kumar)
 
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" decoding="async" width="100" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png 2x" data-file-width="512" data-file-height="191"> </a>
+<a href="https://htmx.org" rel="nofollow"><img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" alt="</> htmx" title="high power tools for HTML" style="max-width: 20%;"></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <!-- <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="40" width="40" src="https://img.icons8.com/color/240/000000/mongodb.png"/> </a> -->
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
- <!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
- <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJs" height="40" width="40px" src="https://api.iconify.design/logos:react.svg"/> </a>
- <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <!-- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> </a> -->
- <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> </a>
- <a href="https://" target="_blank"> <img align="left" alt="Blender Icon" width="100px" src="https://download.blender.org/branding/blender_logo_socket.png"> </a>
- <a href="https://python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a>
- <!-- <a href="https://jquery.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/> </a> -->
- <!-- <a href="https://php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="40"/> </a>  -->
- <a href="https://unity.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="40" height="40"> </a> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"> </a> </p>
+ <a href="https://reactjs.org/" target="_blank"> <img alt="ReactJs" height="40" width="40px" src="https://api.iconify.design/logos:react.svg"/> </a>
+ <a href="https://python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="50" height="50"/> </a> 
+ 
+ </p>
 
+ <h3 align="center">Tools</h3>
+ <p align="center">
+ <a href="https://unity.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="90" height="45"> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+ </a><a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> </a>
+ <a><svg xmlns="http://www.w3.org/2000/svg" aria-label="Docker" role="img" viewBox="0 0 512 512" width="50px" height="50px" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#ffffff"></rect><path stroke="#066da5" stroke-width="38" d="M296 226h42m-92 0h42m-91 0h42m-91 0h41m-91 0h42m8-46h41m8 0h42m7 0h42m-42-46h42"></path><path fill="#066da5" d="m472 228s-18-17-55-11c-4-29-35-46-35-46s-29 35-8 74c-6 3-16 7-31 7H68c-5 19-5 145 133 145 99 0 173-46 208-130 52 4 63-39 63-39"></path></g></svg></a>
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+ </p>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumit-Kumar1&count_private=true&show_icons=true&theme=radical" />
@@ -48,6 +42,4 @@ So nice of you paying a visit!
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Kumar1&layout=compact&theme=react&count_private=false" />
 </p>
 
-<p align=center><img src ="https://github-readme-streak-stats.herokuapp.com?user=sumit&theme=vision-friendly-dark"></p>
-
-[![Soumavo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumit-Kumar1&theme=react-dark)](https://github.com/Sumit-Kumar1)
+[![Sumit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Kumar1&bg_color=241f31&color=ffffff&line=1fe719&point=ed333b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
