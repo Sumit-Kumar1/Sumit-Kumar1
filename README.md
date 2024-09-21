@@ -15,7 +15,7 @@ So nice of you paying a visit !
 <h3 align="center">Programming Languages</h3>
 <p align="center">
 <a href="https://go.dev/" target="_blank">
-<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" decoding="async" width="100" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png 2x" data-file-width="512" data-file-height="191"> </a>
+<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="90" height="70"> </a>
 <a href="https://htmx.org" rel="nofollow" target="_blank"><img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" alt="</> htmx" title="high power tools for HTML"  width="120" height="40"></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="40" height="40"/></a>
