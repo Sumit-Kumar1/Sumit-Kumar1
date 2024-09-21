@@ -7,16 +7,16 @@ So nice of you paying a visit !
 - 💬 Ask me about Golang, ML, some about Game Development, enjoying playing PC games and anime.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Four corner is the only spot in the US where you can stand in four states at once: Utah, Colorado, Arizona and New Mexico.
-  
+
 <h3 align="center">Connect With Me:</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://kumarsumitjat298@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit1kumar)
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" decoding="async" width="100" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png 2x" data-file-width="512" data-file-height="191"> </a>
-<a href="https://htmx.org" rel="nofollow"><img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" alt="</> htmx" title="high power tools for HTML" style="max-width: 20%;"></a>
+<a href="https://go.dev/" target="_blank">
+<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" decoding="async" width="100" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png 2x" data-file-width="512" data-file-height="191"> </a>
+<a href="https://htmx.org" rel="nofollow" target="_blank"><img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" alt="</> htmx" title="high power tools for HTML"  width="120" height="40"></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="40" height="40"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
